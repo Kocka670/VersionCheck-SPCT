@@ -3,11 +3,17 @@
   "versions": [
     {
       "version": "1.0.1",
-      "news": "Added multiframe frameworks", "XXXX"
+      "news": [
+        "Added multiframe frameworks",
+        "XXXX",
+        "NOVA VEC"
+      ]
     },
     {
       "version": "1.0.2",
-      "news": "Fix callbacks"
+      "news": [
+        "Fix callbacks"
+      ]
     }
   ]
 }
