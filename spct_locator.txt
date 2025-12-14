@@ -4,16 +4,16 @@
     {
       "version": "1.0.1",
       "news": [
-        "Added multiframe frameworks",
-        "XXXX",
-        "NOVA VEC"
+        "XXX",
+        "XXX",
+        "XXX"
       ]
     },
     {
       "version": "1.0.2",
       "news": [
-        "Fix callbacks",
-        "Random feature added"
+        "XXX",
+        "XXX"
       ]
     }
   ]
