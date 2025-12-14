@@ -3,25 +3,11 @@
   "versions": [
     {
       "version": "1.0.1",
-      "changes": {
-        "Added": [
-          "Multiframework support"
-        ],
-        "Fixed": [
-          "Callbacks"
-        ]
-      }
+      "news": "Added multiframe frameworks", "NIGGA"
     },
     {
       "version": "1.0.2",
-      "changes": {
-        "Added": [
-          "Improved configuration options"
-        ],
-        "Fixed": [
-          "Minor performance issues"
-        ]
-      }
+      "news": "Fix callbacks"
     }
   ]
 }
