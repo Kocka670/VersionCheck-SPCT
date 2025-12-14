@@ -1,1 +1,13 @@
-
+{
+  "update": true,
+  "versions": [
+    {
+      "version": "1.0.1",
+      "news": "Added multiframe frameworks"
+    },
+    {
+      "version": "1.0.2",
+      "news": "Fix callbacks"
+    }
+  ]
+}
