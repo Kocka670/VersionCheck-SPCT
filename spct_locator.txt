@@ -12,7 +12,8 @@
     {
       "version": "1.0.2",
       "news": [
-        "Fix callbacks"
+        "Fix callbacks",
+        "Random feature added"
       ]
     }
   ]
