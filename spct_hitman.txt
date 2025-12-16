@@ -1,4 +1,20 @@
 {
-    "version": "1.0.0",
-    "news": ""
+  "update": false,
+  "versions": [
+    {
+      "version": "1.0.1",
+      "news": [
+        "XXX",
+        "XXX",
+        "XXX"
+      ]
+    },
+    {
+      "version": "1.0.2",
+      "news": [
+        "XXX",
+        "XXX"
+      ]
+    }
+  ]
 }
